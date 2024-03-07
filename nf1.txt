@@ -1,1 +1,1 @@
-novi tekst na master grani
+novi tekst sa master i nove grane
